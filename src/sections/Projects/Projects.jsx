@@ -13,9 +13,9 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={doc}
-          link="https://github.com/Ade-mir/company-landing-page-2"
-          h3="Viberr"
-          p="Streaming App"
+          link="https://drpalkerwellnessayurveda.in/"
+          h3="Arya Ayurveda"
+          p="Doctor Portfolio"
         />
         <ProjectCard
           src={freshBurger}
