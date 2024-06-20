@@ -11,10 +11,10 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={doc}
-          link="https://drpalkerwellnessayurveda.in/"
-          h3="Arya ayurveda "
-          p="Doctor Portfolio"
+          src={viberr}
+          link="https://github.com/Ade-mir/company-landing-page-2"
+          h3="Viberr"
+          p="Streaming App"
         />
         <ProjectCard
           src={freshBurger}
