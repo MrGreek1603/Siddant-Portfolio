@@ -4,6 +4,7 @@ import freshBurger from "../../assets/fresh-burger.png";
 import hipsster from "../../assets/hipsster.png";
 import fitLift from "../../assets/fitlift.png";
 import ProjectCard from "../../common/ProjectCard";
+import doc from "../../assets/doc.png";
 
 function Projects() {
   return (
@@ -11,7 +12,7 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={viberr}
+          src={doc}
           link="https://github.com/Ade-mir/company-landing-page-2"
           h3="Viberr"
           p="Streaming App"
